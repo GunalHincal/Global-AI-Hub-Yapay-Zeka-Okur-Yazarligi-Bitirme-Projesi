@@ -2,3 +2,4 @@
 Deprem ve Yapay Zeka Algoritmalari
 
 k.okur29@gmail.com
+ozdemirsmr@gmail.com
